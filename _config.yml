@@ -1,22 +1,21 @@
-title: Michael Zhu
-# tagline: Two roads diverged in woods, I took the one less traveled by.
-description: Two roads diverged in woods, I took the one less traveled by.
+title: Mike Zhu
+description: Think beyond the box.
 #Comment out url when working locally to resolve base urls correctly
-url: https://rezekzhu.github.io
+url: https://RezekZhu.github.io
 
 # Owner/author information
 owner:
-  name: Michael Zhu
-  avatar: Michael Zhu.jpg
+  name: Mike Zhu
+  avatar: Mike Zhu.jpg
 #  bio:
-  #email: hanlin.cai@ieee.org
+  email: mike_zhu@outlook.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  #twitter: lancecai2002
+  twitter: mikezhujust
   # facebook: caihanlin2002
-  github: RezekZhu
-  #linkedin: hanlincai
-  #scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  # instagram: lancecai2002
+  github: MikeZhujust
+  #linkedin: tocom
+  #scholar: tocom
+  instagram: Rezek_Zhu
   # lastfm:
   # tumblr:
   # For Google Authorship https://plus.google.com/authorship
@@ -34,11 +33,21 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Me
     url: /
-  - title: Hobbies
+  - title: Resume
+    url: /file/CV-HanlinCAI.pdf
+  - title: Publications
+    url: /publications/
+  - title: Awards
+    url: /awards/
+  - title: Fun facts
+    url: /fundings/
+  - title: Photography
     url: /hobbies/
+  - title: Blogs
+    url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: China/Beijing
+timezone: America/Vancouver
 future: true
 highlighter: rouge
 # markdown: kramdown

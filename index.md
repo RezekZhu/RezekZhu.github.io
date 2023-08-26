@@ -4,11 +4,11 @@ layout: page
 
 # About Me
 
-<img src="https://RezekZhu.github.io/Michael Zhu.jpg" class="floatpic" width="360" height="480">
+<img src="https://RezekZhu.github.io/Mike Zhu.jpg" class="floatpic" width="360" height="480">
 
-Here is **Michael Zhu ( [朱昱豪](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
+Here is **Mike Zhu ([朱昱豪](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
 
-I am a senior student majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). Currently, I am working as a research assistant in the **IACTIP Lab** (Provincial Key), advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). Here is [my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf).
+I am a senior student majoring in **psychology** at Beijing Normal University, China. Currently, I am a visiting student at University of California Berkeley, advised by [Prof. Anne Collins](https://ccn.berkeley.edu/pages/people.html). Here is [my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf).
 
 <br>
 
